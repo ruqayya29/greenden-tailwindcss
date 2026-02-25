@@ -35,4 +35,4 @@ Clean minimal green theme
 Grid and Flexbox layout
 Sticky navigation bar# greenden-tailwindcss
 
-# Link to view : 
+# Link to view : https://ruqayya29.github.io/greenden-tailwindcss/
